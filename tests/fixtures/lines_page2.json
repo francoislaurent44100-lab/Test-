@@ -1,0 +1,24 @@
+{
+  "total": 3,
+  "results": [
+    {
+      "N°DPE": "2400E1234567C",
+      "Date_établissement_DPE": "2024-06-20",
+      "Date_réception_DPE": "2024-06-21",
+      "Etiquette_DPE": "A",
+      "Etiquette_GES": "A",
+      "Type_bâtiment": "appartement",
+      "Année_construction": 2022,
+      "Surface_habitable_logement": 45.0,
+      "Adresse_BAN": "9 Rue Neuve 75002 Paris",
+      "Code_postal_BAN": "75002",
+      "Nom__commune_BAN": "Paris",
+      "Code_INSEE_BAN": "75102",
+      "N°_département_BAN": "75",
+      "Conso_5_usages_par_m²_é_primaire": 58.2,
+      "Conso_5_usages_é_finale": 40.1,
+      "Emission_GES_5_usages_par_m²": 4.9
+    }
+  ],
+  "next": null
+}

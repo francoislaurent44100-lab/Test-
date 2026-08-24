@@ -1,0 +1,42 @@
+{
+  "total": 3,
+  "results": [
+    {
+      "N°DPE": "2400E1234567A",
+      "Date_établissement_DPE": "2024-03-15",
+      "Date_réception_DPE": "2024-03-16",
+      "Etiquette_DPE": "D",
+      "Etiquette_GES": "D",
+      "Type_bâtiment": "appartement",
+      "Année_construction": 1975,
+      "Surface_habitable_logement": 62.5,
+      "Adresse_BAN": "12 Rue de la Paix 75002 Paris",
+      "Code_postal_BAN": "75002",
+      "Nom__commune_BAN": "Paris",
+      "Code_INSEE_BAN": "75102",
+      "N°_département_BAN": "75",
+      "Conso_5_usages_par_m²_é_primaire": 210.4,
+      "Conso_5_usages_é_finale": 130.2,
+      "Emission_GES_5_usages_par_m²": 28.6
+    },
+    {
+      "N°DPE": "2400E1234567B",
+      "Date_établissement_DPE": "2024-05-02",
+      "Date_réception_DPE": "2024-05-03",
+      "Etiquette_DPE": "F",
+      "Etiquette_GES": "E",
+      "Type_bâtiment": "maison",
+      "Année_construction": 1958,
+      "Surface_habitable_logement": 98.0,
+      "Adresse_BAN": "4 Impasse des Lilas 75002 Paris",
+      "Code_postal_BAN": "75002",
+      "Nom__commune_BAN": "Paris",
+      "Code_INSEE_BAN": "75102",
+      "N°_département_BAN": "75",
+      "Conso_5_usages_par_m²_é_primaire": 385.1,
+      "Conso_5_usages_é_finale": 245.9,
+      "Emission_GES_5_usages_par_m²": 61.3
+    }
+  ],
+  "next": "https://data.ademe.fr/data-fair/api/v1/datasets/dpe03existant/lines?size=2&after=2"
+}
